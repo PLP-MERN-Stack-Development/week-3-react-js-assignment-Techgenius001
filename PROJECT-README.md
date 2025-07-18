@@ -30,15 +30,13 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
 
 ### Dark Mode
 
-<!-- Paste your dark mode screenshot below this line -->
+<img width="1366" height="660" alt="image" src="https://github.com/user-attachments/assets/551169f8-e71b-49fd-89e4-0768d0584e48" />
 
-image.png
 
 ### Light Mode
 
-<!-- Paste your light mode screenshot below this line -->
+<img width="1366" height="659" alt="image" src="https://github.com/user-attachments/assets/4b2a9426-0177-4208-9036-f38cc2cf9eb7" />
 
-image.png
 
 ---
 
