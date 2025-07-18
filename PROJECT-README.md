@@ -30,11 +30,15 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
 
 ### Dark Mode
 
-![Task Manager Dark Mode](./screenshots/task-manager-dark.png)
+<!-- Paste your dark mode screenshot below this line -->
+
+image.png
 
 ### Light Mode
 
-![Task Manager Light Mode](./screenshots/task-manager-light.png)
+<!-- Paste your light mode screenshot below this line -->
+
+image.png
 
 ---
 
@@ -79,4 +83,4 @@ src/
 
 ## 📢 Notes
 
-- Screenshots are located in the `screenshots/` folder.
+- Paste your screenshots directly into this README file above.
